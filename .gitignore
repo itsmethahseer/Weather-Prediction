@@ -1,0 +1,5 @@
+myenv/
+/random_forest_model.pkl
+/support_vector_Regressor.pkl
+/app/__pycache__
+/.ipynb_checkpoints
